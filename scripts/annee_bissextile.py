@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*-coding:Utf-8 -*
 
+# Ce script a pour but de vérifier si une année, saisie par l'utilisateur, est bissextile ou non.
 
 annee = input("Veuillez saisir une année : ")
 annee = int(annee)
